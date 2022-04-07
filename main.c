@@ -2,7 +2,6 @@
 
 int main()
 {
-    printf("Hello, IKiZI!");
-
+    printf("Hello, World!");
     return 0;
 }
